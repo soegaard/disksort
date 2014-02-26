@@ -11,6 +11,7 @@ Sort large files
 HISTORY
 ----------------------------------------------------------------------
 2006-oct-15  First release: disk-sort
+2014-feb-26  Bug fix: reverse! is no longer in mzscheme. Use reverse.
 
 ----------------------------------------------------------------------
 INTRODUCTION
